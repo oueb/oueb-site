@@ -6,7 +6,7 @@
 ```
 $ git clone git@github.com:oueb/oueb-site.git
 $ cd oueb-site
-$ git submodule update --recursive
+$ git submodule update --recursive --init
 $ hugo server
 ```
 
