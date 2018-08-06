@@ -10,4 +10,4 @@ $ git submodule update --recursive --init
 $ hugo server
 ```
 
-then go to [localhost:1313](localhost:1313)
+then go to [localhost:1313](http://localhost:1313)
