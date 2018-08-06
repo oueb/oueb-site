@@ -6,8 +6,15 @@
 ```
 $ git clone git@github.com:oueb/oueb-site.git
 $ cd oueb-site
-$ git submodule update --recursive --remote --init
+$ git submodule update --remote --init
 $ hugo server
 ```
 
 then go to [localhost:1313](http://localhost:1313)
+
+## update theme
+git submodules are a bit counter-intuitive
+to keep the submodule up to date with master :
+```
+$ git submodule update --remote
+```
