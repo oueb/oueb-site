@@ -1,3 +1,4 @@
-[submodule "themes/oueb"]
-	path = themes/oueb
+[submodule "themes/oueb-theme"]
+	path = themes/oueb-theme
 	url = git@github.com:oueb/oueb-theme.git
+	branch = master
