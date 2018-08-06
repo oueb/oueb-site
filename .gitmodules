@@ -1,0 +1,3 @@
+[submodule "themes/oueb"]
+	path = themes/oueb
+	url = git@github.com:oueb/oueb-theme.git
