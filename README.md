@@ -1,0 +1,13 @@
+# OUEB.io
+
+## setup
+
+(required) [hugo extended version](https://gohugo.io/getting-started/installing/#snap-package) (it can compile sass and more)
+```
+$ git clone git@github.com:oueb/oueb-site.git
+$ cd oueb-site
+$ git submodule update --recursive
+$ hugo server
+```
+
+then go to [localhost:1313](localhost:1313)
